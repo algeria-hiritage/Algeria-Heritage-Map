@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+    { "type": "Feature", "properties": { "id": "tlm001", "mag": 5, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -1.289786, 34.877649, 6.1 ] } },
+    { "type": "Feature", "properties": { "id": "os001", "mag": 5, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 7.251245, 33.330401, 6.1 ] } },
+    { "type": "Feature", "properties": { "id": "glm001", "mag": 5, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 7.2140994, 36.5141094, 6.1 ] } },
+    { "type": "Feature", "properties": { "id": "bchr001", "mag": 5, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ -2.419792, 31.553533, 6.1 ] } },
+    { "type": "Feature", "properties": { "id": "stf001", "mag": 5, "felt": null, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 5.404884251465205, 36.18936749762557, 6.1 ] } }
+]
+}
